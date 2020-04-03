@@ -1,0 +1,52 @@
+C:\Users\Siem\Desktop\WindowsFormsApp14DBproject\WindowsFormsApp14DBproject\bin\Debug\WindowsFormsApp14DBproject.exe.config
+C:\Users\Siem\Desktop\WindowsFormsApp14DBproject\WindowsFormsApp14DBproject\bin\Debug\WindowsFormsApp14DBproject.exe
+C:\Users\Siem\Desktop\WindowsFormsApp14DBproject\WindowsFormsApp14DBproject\bin\Debug\WindowsFormsApp14DBproject.pdb
+C:\Users\Siem\Desktop\WindowsFormsApp14DBproject\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.csprojAssemblyReference.cache
+C:\Users\Siem\Desktop\WindowsFormsApp14DBproject\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.Properties.Resources.resources
+C:\Users\Siem\Desktop\WindowsFormsApp14DBproject\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.csproj.GenerateResource.cache
+C:\Users\Siem\Desktop\WindowsFormsApp14DBproject\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.exe
+C:\Users\Siem\Desktop\WindowsFormsApp14DBproject\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.pdb
+C:\Users\Siem\Desktop\WindowsFormsApp14DBproject\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.Main.resources
+C:\Users\Siem\Desktop\WindowsFormsApp14DBproject\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.Rent.resources
+C:\Users\Siem\Desktop\WindowsFormsApp14DBproject\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.UpdateInventory.resources
+C:\Users\Siem\Desktop\CMPT_291\WindowsFormsApp14DBproject\bin\Debug\WindowsFormsApp14DBproject.exe.config
+C:\Users\Siem\Desktop\CMPT_291\WindowsFormsApp14DBproject\bin\Debug\WindowsFormsApp14DBproject.exe
+C:\Users\Siem\Desktop\CMPT_291\WindowsFormsApp14DBproject\bin\Debug\WindowsFormsApp14DBproject.pdb
+C:\Users\Siem\Desktop\CMPT_291\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.csprojAssemblyReference.cache
+C:\Users\Siem\Desktop\CMPT_291\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.Main.resources
+C:\Users\Siem\Desktop\CMPT_291\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.Properties.Resources.resources
+C:\Users\Siem\Desktop\CMPT_291\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.Rent.resources
+C:\Users\Siem\Desktop\CMPT_291\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.UpdateInventory.resources
+C:\Users\Siem\Desktop\CMPT_291\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.csproj.GenerateResource.cache
+C:\Users\Siem\Desktop\CMPT_291\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.exe
+C:\Users\Siem\Desktop\CMPT_291\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.pdb
+C:\Users\Siem\Desktop\CMPT_291\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.csproj.CoreCompileInputs.cache
+C:\Users\Siem\Desktop\CMPT_291\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.receiptForm.resources
+C:\Users\15879\Desktop\newBuildVer2\291Ver2\WindowsFormsApp14DBproject\bin\Debug\WindowsFormsApp14DBproject.exe.config
+C:\Users\15879\Desktop\newBuildVer2\291Ver2\WindowsFormsApp14DBproject\bin\Debug\WindowsFormsApp14DBproject.exe
+C:\Users\15879\Desktop\newBuildVer2\291Ver2\WindowsFormsApp14DBproject\bin\Debug\WindowsFormsApp14DBproject.pdb
+C:\Users\15879\Desktop\newBuildVer2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.csprojAssemblyReference.cache
+C:\Users\15879\Desktop\newBuildVer2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.Main.resources
+C:\Users\15879\Desktop\newBuildVer2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.Properties.Resources.resources
+C:\Users\15879\Desktop\newBuildVer2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.receiptForm.resources
+C:\Users\15879\Desktop\newBuildVer2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.Rent.resources
+C:\Users\15879\Desktop\newBuildVer2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.UpdateInventory.resources
+C:\Users\15879\Desktop\newBuildVer2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.csproj.GenerateResource.cache
+C:\Users\15879\Desktop\newBuildVer2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.exe
+C:\Users\15879\Desktop\newBuildVer2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.pdb
+C:\Users\15879\Desktop\newBuildVer2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.GenerateReport.resources
+D:\downloads\school\WINTER 2020\CMPT 291\New folder\291projectv2\291Ver2\WindowsFormsApp14DBproject\bin\Debug\WindowsFormsApp14DBproject.exe.config
+D:\downloads\school\WINTER 2020\CMPT 291\New folder\291projectv2\291Ver2\WindowsFormsApp14DBproject\bin\Debug\WindowsFormsApp14DBproject.exe
+D:\downloads\school\WINTER 2020\CMPT 291\New folder\291projectv2\291Ver2\WindowsFormsApp14DBproject\bin\Debug\WindowsFormsApp14DBproject.pdb
+D:\downloads\school\WINTER 2020\CMPT 291\New folder\291projectv2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.csprojAssemblyReference.cache
+D:\downloads\school\WINTER 2020\CMPT 291\New folder\291projectv2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.GenerateReport.resources
+D:\downloads\school\WINTER 2020\CMPT 291\New folder\291projectv2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.Main.resources
+D:\downloads\school\WINTER 2020\CMPT 291\New folder\291projectv2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.Properties.Resources.resources
+D:\downloads\school\WINTER 2020\CMPT 291\New folder\291projectv2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.receiptForm.resources
+D:\downloads\school\WINTER 2020\CMPT 291\New folder\291projectv2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.Rent.resources
+D:\downloads\school\WINTER 2020\CMPT 291\New folder\291projectv2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.UpdateInventory.resources
+D:\downloads\school\WINTER 2020\CMPT 291\New folder\291projectv2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.csproj.GenerateResource.cache
+D:\downloads\school\WINTER 2020\CMPT 291\New folder\291projectv2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.csproj.CoreCompileInputs.cache
+D:\downloads\school\WINTER 2020\CMPT 291\New folder\291projectv2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.exe
+D:\downloads\school\WINTER 2020\CMPT 291\New folder\291projectv2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.pdb
+D:\downloads\school\WINTER 2020\CMPT 291\New folder\291projectv2\291Ver2\WindowsFormsApp14DBproject\obj\Debug\WindowsFormsApp14DBproject.EmployeeLogin.resources
